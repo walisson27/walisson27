@@ -21,4 +21,3 @@
 
  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walisson27" alt="walisson-souza" /> </p>
