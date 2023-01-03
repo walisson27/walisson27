@@ -6,8 +6,8 @@
   <a><img src="https://github-readme-stats.vercel.app/api?username=walisson27&show_icons=true&count_private=true&theme=dark" width=350></a>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walisson27&layout=compact&theme=dark" width=293></a>
 </p>
-  
-<div style="display: inline_block"><br>
+
+<p align='center'>
   <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
   <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
   <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'></a>
@@ -18,7 +18,7 @@
   <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'></a>
   <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></a>
   <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></a>
-</div>
+ </p>
 
 
   ##
