@@ -1,12 +1,11 @@
 <div>
   <a href="https://github.com/walisson27">
 </div>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
 <p align='center'>
   <a><img src="https://github-readme-stats.vercel.app/api?username=walisson27&show_icons=true&count_private=true&theme=dark" width=350></a>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walisson27&layout=compact&theme=dark" width=293></a>
 </p>
-<h1 align='center'>Skills</h1>
+<h1 align='center'>Skills</h1><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
 <p align='center'>
   <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
   <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
