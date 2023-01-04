@@ -6,7 +6,7 @@
   <a><img src="https://github-readme-stats.vercel.app/api?username=walisson27&show_icons=true&count_private=true&theme=dark" width=350></a>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walisson27&layout=compact&theme=dark" width=293></a>
 </p>
-
+<h1 align='center'>SKIlls</h1>
 <p align='center'>
   <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
   <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
@@ -22,7 +22,6 @@
 
 
   ##
-
 <a href="https://www.linkedin.com/in/walisson-souza/" target="_blank">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
