@@ -20,8 +20,6 @@
   <a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></a>
  </p>
 
-
-  
 <a href="https://www.linkedin.com/in/walisson-souza/" target="_blank">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
