@@ -2,12 +2,12 @@
   <a href="https://github.com/walisson27">
 </div>
 <p align='center'>
-   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wausernamelisson27&layout=compact&theme=dark" width=385></a>
+   <!--<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wausernamelisson27&layout=compact&theme=dark" width=385></a>-->
 </p>
 <h1 align='center'>Skills<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=34 alt="Git"/></h1>
 <div>
   <p align='center'>
-    <a> <img width=34 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
+    <a> <img width=37 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
     <a> <img width=34 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
     <a> <img width=34 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'></a>
     <a> <img width=34 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
