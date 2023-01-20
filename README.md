@@ -4,7 +4,7 @@
 <p align='center'>
    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walisson27&layout=compact&theme=dark" width=485></a>
 </p>
-<h1 align='center'>Skills<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=37 /></h1>
+<h1 align='center'>Skills<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=845 /></h1>
 <div>
   <p align='center'>
     <a> <img width=37 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
