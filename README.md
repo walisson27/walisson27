@@ -1,15 +1,6 @@
-<div>
-  <a href="https://github.com/walisson27">
-</div>
-<p align='center'>
-   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walisson27&layout=compact&theme=dark" width=385></a>
-</p>
-<div align="center">
-  <img src="./gifs/skills-gif.gif" width="25" />&nbsp; <span style="font-size: 16px;"><b>Skills</b></span> 
-</div>
-<div>
-  <p align='center'>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,react,vue,sass,tailwind,bootstrap,mongodb,git,wordpress&perline=14" />
-</div>
+# Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
-  
+- 👩🏻‍💻 Developer Front-End.
+## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,react,vue,sass,tailwind,bootstrap,mongodb,git,wordpress&perline=14" />
+
