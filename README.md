@@ -8,4 +8,4 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia para criar apli
 
 ## 🔗 Portfolio
 Confira meu portfólio e explore os projetos que desenvolvi:
-👉 walissondesenvolvedor.vercel.app
+<a href="https://walissondesenvolvedor.vercel.app/" target="_blank" style="text-decoration: none;">👉 walissondesenvolvedor.vercel.app</a>
