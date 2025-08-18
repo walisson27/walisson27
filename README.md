@@ -40,8 +40,6 @@ Fique à vontade para entrar em contato para oportunidades, freelas ou apenas ba
 
 - 📧 Email: [walisson.desenvolvedor@gmail.com](mailto:walisson.desenvolvedor@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/walisson-desenvolvedor](https://www.linkedin.com/in/walisson-desenvolvedor/)  
-- 🧠 GitHub: [github.com/walisson27](https://github.com/walisson27)
-
 ---
 
 ## 🧠 Curiosidades
