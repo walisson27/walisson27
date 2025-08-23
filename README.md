@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Front-End Developer</h1>
 
 <p align="center">
-Sou um desenvolvedor front-end apaixonado por criar <strong>interfaces intuitivas</strong>, <strong>acessíveis</strong> e com <strongalta performance</strong>. 
+Sou um desenvolvedor front-end apaixonado por criar <strong>interfaces intuitivas</strong>, <strong>acessíveis</strong> e com <strong> performance</strong>. 
 Tenho experiência com diversas tecnologias e estou sempre em busca de aprender mais e evoluir como profissional.
 </p>
 
