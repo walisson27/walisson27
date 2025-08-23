@@ -42,10 +42,4 @@ Fique à vontade para entrar em contato para oportunidades, freelas ou apenas ba
 - 💼 LinkedIn: [linkedin.com/in/walisson-desenvolvedor](https://www.linkedin.com/in/walisson-desenvolvedor/)  
 ---
 
-## 🧠 Curiosidades
-
-- 🧩 Adoro resolver problemas com código limpo e eficiente.
-- 🎯 Atualmente focado em evoluir como desenvolvedor full stack no futuro.
-
----
 
